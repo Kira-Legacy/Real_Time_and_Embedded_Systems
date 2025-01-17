@@ -1,4 +1,4 @@
-//2. Embedded C program to display 0 to 99 on 7 segment display 
+//Embedded C program to display 0 to 99 on 7 segment display 
 //by using Atmega32 microcontroller with Keil and Proteus combination.
 
 #include<reg51.h>
