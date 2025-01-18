@@ -13,7 +13,12 @@ This HEX file is very improtant for the simulation to function as it serve as an
 with simulation. After linking the HEX file you can run the simlation to see the two 7 segment display ("7SEG-COM-ANODE"
 in technical terms) count from 00 to 99.
 The two 7 segment display are positioned side to side. The left and the right 7SEG-COM-ANODE displays the left and right 
-digits respectively while maintaing the operation simultaneously. 
+digits respectively while maintaing the operation simultaneously.
+
+:) On the image below you may find the Simulation of 0 to 99 counter:
+
+![HTML Image](https://github.com/Kira-Legacy/Image_Repo/blob/main/0%20to%2099%20Counter.png)
+
 # Where to apply the program?
 This counter can be practically used for the change of Traffic light from one light to another. For instance to change the
 light from Green to red we can use the counter by setting the countdown to a favourable number.
