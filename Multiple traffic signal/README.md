@@ -1,5 +1,5 @@
 # Real Time and Embedded System
-# Multiple traffic signal
+# Multiple Traffic Signal
 
 This is an Embedded C program to simulate the control of traffic flow with traffic lights on a cross road scenario. I have used Keli u
 Vision5 IDE to program and build the C source code and Proteus for running the simulation. On the program 4 traffic lights
@@ -10,5 +10,10 @@ simultaneaously. The green lights up for the vehicles travelling on the X-axis o
 for the vehicles found on the Y-axis of the cross road turns red. The yellow light serves as an intermediary for changing 
 light from green to red and vice versa. After yellow lights up on all the traffic lights, both the traffic lights on the 
 X-axis turns red and both the traffic lights found on the Y-axis turn to green. The process repeats it self accordingly.
+
+:) On the image below, you can find the simulation image of Multiple Traffic Signal program.
+
+![HTML Image](https://github.com/Kira-Legacy/Image_Repo/blob/main/Multiple%20traffic.png)
+
 # Where to apply the program?
 This traffic lights simulation can be practically used for controlling traffic flow on corssroads.
