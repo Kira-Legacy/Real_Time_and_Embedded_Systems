@@ -29,5 +29,5 @@ An embedded system is a microcontroller or microprocessor based system which is 
 
 ![HTML Image](https://github.com/Kira-Legacy/Image_Repo/blob/main/Types_of_embedded_systems_image.png)
 
-:) In this repostory, I have attached two projects: 0 to 99 counter and Multiple traffic light signal programmed using Embedded C.
+:) In this repostory, I have attached two projects: 0 to 99 counter and Multiple traffic light signal programmed using Embedded C and simulated using protus simulation software.
 
