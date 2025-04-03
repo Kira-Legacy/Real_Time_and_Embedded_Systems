@@ -1,7 +1,8 @@
 # Real Time and Embedded System
 # Multiple Traffic Signal
 
-    This is an Embedded C program to simulate the control of traffic flow with the help of traffic lights on a crossroad scenario. 
+This is an Embedded C program to simulate the control of traffic flow with the help of traffic lights on a crossroad scenario. 
+
 I have used Keli uVision5 IDE to program and build the C source code and Proteus for running the simulation. On the program 4 traffic lights
 and AT89C51 microcontroller were used. 
 # How to run the program? 
