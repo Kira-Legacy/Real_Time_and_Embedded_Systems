@@ -1,7 +1,6 @@
 // 4. Multiple traffic signal programming for microcontroller using keil and proteus.
 
 #include <reg51.h>
-
 // First traffic light
 sbit red1 = P1 ^ 7; // signed bit
 sbit yellow1 = P1 ^ 6;
