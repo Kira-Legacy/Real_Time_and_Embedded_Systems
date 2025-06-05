@@ -10,6 +10,7 @@ void delay(unsigned int time)
         for (j = 0; j < 1275; j++)
             ; // delay loop
 }
+
 void main()
 {
     // defining two arrays to be displayed on the two 7 segment anode
